@@ -1,0 +1,17 @@
+<style>
+form {
+    border: 1px solid #ddd;
+    padding:5px;
+    width:225px;
+    background: #efefe;
+}
+
+label{
+    display: block;
+    margin-top: 5px;
+}
+
+input, textarea, select, option {
+    min-width: 200px;
+}
+</style>
